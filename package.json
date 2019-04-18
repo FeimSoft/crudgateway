@@ -1,6 +1,6 @@
 {
   "name": "@feimsoft/crudgateway",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Provides an abstraction layer for create json crud gateways with axios client",
   "main": "dist/index.js",
   "types" : "dist/index.d.ts",
