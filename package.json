@@ -1,0 +1,26 @@
+{
+  "name": "fs-crudgateway",
+  "version": "1.0.0",
+  "description": "Provides an abstraction layer for create json crud gateways with axios client",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --config jestconfig.json",
+    "build": "tsc"
+  },
+  "author": "FeimSoft",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^24.0.11",
+    "@types/moxios": "^0.4.8",
+    "@types/sinon": "^7.0.11",
+    "jest": "^24.7.1",
+    "moxios": "^0.4.0",
+    "sinon": "^7.3.2",
+    "ts-jest": "^24.0.2",
+    "tslib": "^1.9.3",
+    "typescript": "^3.4.3"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
